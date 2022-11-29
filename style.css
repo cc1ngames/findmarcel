@@ -1,0 +1,58 @@
+body{
+    height: 100vh;
+    background: url(images/background.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+
+#logo{
+    display: block;
+    margin: auto;
+    height: 30vh;
+}
+
+#botoes{
+    margin: auto;
+    
+}
+
+a{
+    width: 200px;
+    text-decoration: none;
+    margin: auto;
+    
+}
+
+p{
+    font-size: 30px;
+    text-align: center;
+    background-color: aliceblue;
+    border-radius: 3px;
+    color: black;
+    border: 2px solid black;
+    font-family: 'Amatic SC';
+    
+}
+
+ul{
+    width: 200px;
+    list-style-type: none;
+    margin: auto;
+    padding: 0;
+}
+
+ul li{
+    justify-content: center;
+}
+
+#botao{
+    display: block;
+    margin: auto;
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Amatic SC';
+    margin: auto;
+}
